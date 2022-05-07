@@ -1,0 +1,1 @@
+// WRITE HERE ANY KIND OF PATTERNS (RegExp and so on)

@@ -1,0 +1,23 @@
+@use 'variables' as *;
+@forward 'media-queries';
+@forward 'fonts';
+
+* {
+  box-sizing: border-box;
+  outline-color: $outline-color;
+}
+
+html {
+  color: $font-color;
+  font-size: $font-size;
+  font-family: $font-family-sans-serif;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  position: relative;
+  background-color: lavender;
+  margin: 0;
+  overflow: auto;
+}

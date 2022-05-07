@@ -1,0 +1,7 @@
+# UNCOMMENT BELOW WHEN THE PROJECT IS SET
+# .env
+# .prettierignore
+.git/
+
+dist/
+node_modules/
