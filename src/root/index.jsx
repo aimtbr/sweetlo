@@ -1,7 +1,12 @@
 import React from 'react';
+import Home from '../views/Home';
 
-const App = (props) => {
-  return <div className="app">WELCOME HOME DEAR</div>;
+const App = () => {
+  return (
+    <div className="app">
+      <Home />
+    </div>
+  );
 };
 
 export default App;

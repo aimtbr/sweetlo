@@ -19,7 +19,7 @@ module.exports = (env, argv) => {
   const writeToDisk = false;
 
   // PROVIDE THE WEBSITE TITLE!
-  const title = '';
+  const title = 'sweetlo';
   // PROVIDE THE WEBSITE DESCRIPTION (OPTIONAL)
   const description = '';
   const location = APP_LOCATION;

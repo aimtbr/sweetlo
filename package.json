@@ -1,5 +1,5 @@
 {
-  "name": "",
+  "name": "sweetlo",
   "version": "1.0.0",
   "main": "src/index.jsx",
   "scripts": {
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+<REPO_URL>.git"
+    "url": "git+https://github.com/aimtbr/react-template.git"
   },
   "bugs": {
-    "url": "<REPO_URL>/issues"
+    "url": "https://github.com/aimtbr/react-template/issues"
   },
-  "homepage": "<REPO_URL>#readme",
+  "homepage": "https://github.com/aimtbr/react-template#readme",
   "dependencies": {
     "localforage": "^1.10.0",
     "normalize.css": "^8.0.1",
